@@ -5,6 +5,9 @@
 * @author Hin7
  */
 
+
+
+
 public class PersonTest {
     public static void main(String[] args) {
         //тест класса Person

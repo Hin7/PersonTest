@@ -6,10 +6,14 @@
  */
 
 
+
+
+
 public class Person {
     private final boolean man; // пол
     private final String name; // имя
     private Person spouse;     // супруг
+
 
     public Person(boolean man, String name) {
         this.man = man;
